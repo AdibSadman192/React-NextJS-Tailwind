@@ -79,3 +79,39 @@ project_travel/
 3. **Run the development server**: `npm run dev`
 4. **Open the app**: Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
+
+## Environment and Dependencies
+
+### Node.js Version
+
+Ensure you are using the latest version of Node.js. You can check your Node.js version by running:
+
+```bash
+node -v
+```
+
+### Required Packages
+
+The project relies on the latest versions of the following React and related packages:
+
+- **react**
+- **react-dom**
+- **next**
+- **tailwindcss**
+- **autoprefixer**
+- **postcss**
+
+You can install all dependencies by running:
+
+```bash
+npm install
+```
+
+or
+
+```bash
+yarn install
+```
+
+Make sure to keep your packages updated to avoid compatibility issues.
+
