@@ -70,7 +70,8 @@ To get the lyrics of a particular song in the terminal, follow these steps:
 
 4. **Additional Process**:
     1. **After running the code give song name and then artist name so that it can search that song for you**
-    2. **Adjust the (sleep time) according to the song so that It can display according to the singer time to say that chorus**: 
+    2. **Adjust the (sleep time) according to the song so that It can display according to the singer time to say that chorus**
+     3. **You need stable internet connection (must)**
 
 ## Requirements
 

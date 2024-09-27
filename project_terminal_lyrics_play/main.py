@@ -14,7 +14,7 @@ def get_lyrics(song_title, artist_name):
 def display_lyrics(lyrics):
     for line in lyrics.split('\n'):
         print(line)
-        time.sleep(2)  # Adjust the delay as needed
+        time.sleep(3)  # Adjust the delay as needed
 
 if __name__ == "__main__":
     song_title = input("Enter the song title: ")
